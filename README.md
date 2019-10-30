@@ -39,7 +39,8 @@ make install
 
 ### Coding style tests
 
-It tests your code for arbnb code style guide 
+It tests your code for arbnb code style guide
+
 If you install Node.js use this commands in terminal:
 ```bash
 make lint
