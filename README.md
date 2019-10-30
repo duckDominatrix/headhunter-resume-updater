@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 For install workflow we need [Node.js](https://nodejs.org/en/).
 
-But you can use files whithout Node.js:
+But you can use files whithout Node.js in "/extention" folder:
 - manifest.json
 - background.js
 - content.js
@@ -55,7 +55,7 @@ npm run eslint
 
 You can add the files to Chrome extentions page,
 tap in adress bar 'chrome://extensions/',
-push the 'Load unpacked' button and load this files:
+push the 'Load unpacked' button and load this files from "/extention" folder:
 - manifest.json
 - background.js
 - content.js
