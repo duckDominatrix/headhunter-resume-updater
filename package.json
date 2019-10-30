@@ -1,0 +1,15 @@
+{
+  "name": "headhunter-resume-updater",
+  "version": "1.0.0",
+  "description": "Extention that's help you update your resume on the hh.ru resume page",
+  "scripts": {
+    "lint": "eslint"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.5.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  },
+  "author": "Oleg Kononov"
+}
