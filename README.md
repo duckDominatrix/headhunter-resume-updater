@@ -1,6 +1,6 @@
-# HeadHunter resumes updater
+# HeadHunter resume updater
 
-This is the Google Chrome Extension for automatically update your resume (raising up your resume in the search).
+This is the Google Chrome Extension that's help you update your resume on the hh.ru (raising up your resume in the search).
 
 ## Built With
 
