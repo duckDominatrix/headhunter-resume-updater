@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "headhunter resume updater",
-  "description": "Updates your resume on the hh.ru resume page",
+  "description": "Extention that's help you update your resume on the hh.ru resume page",
   "version": "1.0.0",
   "background": {
     "scripts": ["background.js"],
