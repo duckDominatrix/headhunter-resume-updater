@@ -5,6 +5,7 @@ This is the Google Chrome Extension that's help you update your resume on the hh
 ## Built With
 
 * JavaScript(ES6)
+* DOM API
 * [Chrome Extention API](https://developer.chrome.com/extensions/api_index)
 * [Web APIs: MutationObserver](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver)
 * [ESlint and Arbnb code style](https://github.com/airbnb/javascript)
