@@ -2,7 +2,7 @@ const trackedSelector = '.applicant-resumes-action_no-mobile';
 const buttonSelector = '.applicant-resumes-update-button';
 
 // Select target elements for tracking(wich displayed on desktop fersion)
-const elements = Array.from(document.querySelectorAll(trackedSelector));
+const elements = [...document.querySelectorAll(trackedSelector)];
 
 // Filtering the elements that have update button as a child or sub child in target element
 const trackedElements = elements.filter((element) => element.querySelector(buttonSelector));
@@ -25,7 +25,7 @@ function pushButtonIfEnable(element, selector) {
   }
 }
 
-// Callback function which to be called
+// Function which choose mutation and update butto if they are enable
 function updateButtonPush(mutations) {
   mutations.forEach((mutation) => {
     const { type, target, addedNodes } = mutation;
