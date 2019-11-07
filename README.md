@@ -5,9 +5,17 @@ Sometimes programming makes life easier, this is the case.
 This is the Google Chrome Extension that's help you update your resume on the hh.ru (raising up your resume in the search).
 The Chrome Extention does not use user data and does not require user authorization(without registration and SMS).
 
+## Technologies used
+
+<p> 
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" title="JavaScript" width="100"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png" alt="ES6" title="EcmaScript6" width="100"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" alt="ESLint" title="ESLint" width="100"/>
+  <img src="https://avatars2.githubusercontent.com/u/698437?s=200&v=4" alt="Airbnb Syle Guide" title="Airbnb Syle Guide" width="100"/>
+<p>
+
 ## Built With
 
-* JavaScript(ES6)
 * DOM API
 * [Chrome Extention API](https://developer.chrome.com/extensions/api_index)
 * [Web APIs: MutationObserver](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver)
