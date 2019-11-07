@@ -14,6 +14,8 @@ The Chrome Extention does not use user data and does not require user authorizat
   <img src="https://avatars2.githubusercontent.com/u/698437?s=200&v=4" alt="Airbnb Syle Guide" title="Airbnb Syle Guide" width="100"/>
 <p>
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/726b0eec76d6dd51c57a/maintainability)](https://codeclimate.com/github/kononovit/headhunter-resume-updater/maintainability)
+
 ## Built With
 
 * DOM API
