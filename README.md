@@ -1,7 +1,9 @@
 # Update resume on hh.ru
 
+Sometimes programming makes life easier, this is the case.
+
 This is the Google Chrome Extension that's help you update your resume on the hh.ru (raising up your resume in the search).
-The Chrome Extention does not use user data and does not require user authorization.
+The Chrome Extention does not use user data and does not require user authorization(without registration and SMS).
 
 ## Built With
 
